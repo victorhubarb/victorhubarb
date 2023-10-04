@@ -26,22 +26,3 @@ After learning the basics of HTML/CSS/JavaScript/React and some other frameworks
 </div>
 
 ____
-
-### - Stay on top of my stats on github!
-
-<br>
-<div align="center">
-  <a href="https://github.com/victorhubarb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhubarb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhubarb&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-____
-  
-### - These are my contributions to the community!  
-  
-<div> 
-  
-  ![Snake animation](https://github.com/victorhubarb/victorhubarb/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
