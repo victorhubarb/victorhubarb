@@ -13,6 +13,8 @@ I started writing code in 2019 with front-end development, then moved into autom
 
 My focus is **software engineering**: object-oriented design, data structures, testing, and code that other people can read.
 
+A lot of my foundation comes from Alura courses. I build a practice project for each one and write down what it taught me and what is still missing. **DigiWallet** is the exception: it is my own project, designed and built from scratch for my Programming 2 final.
+
 ## Featured projects
 
 Each one has a README that says what it does, how to run it and what is still missing.
