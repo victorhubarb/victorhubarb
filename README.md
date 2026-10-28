@@ -1,41 +1,30 @@
-# Welcome to my personal profile page! 🚀
+# Hi, I'm Victor Hugo Barbosa
 
-### About me:
-I'm Victor, a passionate and aspiring front-end developer on a journey to turn ideas into interactive and visually appealing web experiences. Since 2019, I've been diving deep into the world of web development, exploring various technologies and frameworks to hone my skills and broaden my understanding of front-end development.
+I'm a computer science student at **MassBay Community College** (Associate degree, then a transfer to finish my B.S.), and I have been writing code since 2019. I started with front-end development, added testing and QA along the way, and I now work mostly in Java as I study for the degree.
 
-### My Journey:
-My journey into the world of programming started in 2019, driven by a curiosity to understand how websites are built and a desire to create my own digital projects. Since then, I've been on a continuous learning path, immersing myself in HTML, CSS, JavaScript, and popular front-end frameworks like React.js.
+I'm still deciding between **software engineering**, **cybersecurity** and **AI / machine learning**, so I'm building a base that works for all three: object-oriented design, data structures, testing and clean, readable code.
 
-### What I'm Currently Doing:
-I'm currently dedicated to sharpening my skills and knowledge in front-end development to make the leap into my first professional role. I'm actively working on personal projects, exploring new technologies, and contributing to open-source projects to strengthen my portfolio and gain real-world experience.
+## Projects worth opening
 
-- These are some of the languages and tools I've worked on:
+| Project | What it is | Stack |
+|---|---|---|
+| [DigiWallet](https://github.com/victorhubarb/digiwallet) | Venmo-style wallet: accounts, linked banks and cards, sending money, history saved to files. My Programming II final project | Java, OOP |
+| [Meteora](https://github.com/victorhubarb/meteora) | Clothing-store front end with a shared cart (Context API and a reducer) and routing. [Live](https://meteora-three-tau.vercel.app) | React, Vite |
+| [Cypress Testing](https://github.com/victorhubarb/cypress-testing) | End-to-end and API tests with custom commands, fixtures and a stubbed server error | Cypress |
+| [Node Jest Testing](https://github.com/victorhubarb/node-jest-testing) | Unit and integration tests for an Express and SQLite API | Jest, Supertest |
+| [Screenmatch](https://github.com/victorhubarb/screenmatch) | Movie search against a public API, parsed with GSON and saved as JSON | Java |
+| [Monibank](https://github.com/victorhubarb/monibank) | Account-opening flow with a CPF check-digit validator and webcam capture | JavaScript |
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
-</div>
+Each README says what the project does, how to run it, and what is still missing.
 
-### Goals:
-* Secure my first role as a front-end developer.
-* Contribute to projects that make a positive impact.
-* Continue learning and staying updated with the latest trends and technologies in web development.
+## What I work with
 
-### Get In Touch:
-I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out to me via:
+- **Languages:** Java, JavaScript, TypeScript, Python, HTML, CSS and Sass
+- **Front end:** React, Vite, React Router, Bootstrap
+- **Back end:** Node.js, Express, REST APIs, SQLite
+- **Testing:** Cypress, Robot Framework, Jest
+- **Tools:** Git and GitHub, Vercel, Figma
 
-<div> 
-  <a href="https://instagram.com/victorhbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:barbosahvictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-barbosa-8725541a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+## Contact
 
-Let's connect and build something amazing together! 💻🌟
+[LinkedIn](https://www.linkedin.com/in/victorhbarbosa/) · [barbosahvictor@gmail.com](mailto:barbosahvictor@gmail.com)
