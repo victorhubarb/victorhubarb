@@ -13,32 +13,18 @@ I started writing code in 2019 with front-end development, then moved into autom
 
 I am exploring three directions: **software engineering**, **cybersecurity** and **AI / machine learning**. What ties them together is what I practice every day: object-oriented design, data structures, testing, and code that other people can read.
 
-## Projects to open first
+## Start with the pinned projects
 
-### [DigiWallet](https://github.com/victorhubarb/digiwallet) · Java
-A Venmo-style wallet with accounts, linked banks and cards, money transfers and history saved to files. My Programming II final project.
-*What it shows: object-oriented design and file persistence in Java.*
+The six repositories above are the best place to begin: object-oriented Java, back-end and end-to-end testing, and a live React app. Each one has a README that says what it does, how to run it and what is still missing.
 
-### [Node Jest Testing](https://github.com/victorhubarb/node-jest-testing) · Node.js, Jest
-Unit and integration tests for an Express and SQLite API.
-*What it shows: how I test a back end, not only how I write one.*
+## Explore the rest
 
-### [Cypress Testing](https://github.com/victorhubarb/cypress-testing) · Cypress
-End-to-end and API tests with custom commands, fixtures and a stubbed server error.
-*What it shows: QA thinking, including the failure paths.*
+More than 30 public repositories, built since 2019:
 
-### [Screenmatch](https://github.com/victorhubarb/screenmatch) · Java
-A movie search against a public API, parsed with GSON and saved as JSON.
-*What it shows: consuming a REST API from Java.*
-
-### [Monibank](https://monibank-theta-ten.vercel.app) · JavaScript
-An account-opening flow with a CPF check-digit validator and webcam capture. [Source](https://github.com/victorhubarb/monibank)
-*What it shows: validation logic and browser APIs, live.*
-
-### [Meteora](https://meteora-three-tau.vercel.app) · React
-A clothing-store front end with a shared cart (Context API and a reducer) and routing. [Source](https://github.com/victorhubarb/meteora)
-
-<img src="https://raw.githubusercontent.com/victorhubarb/meteora/main/docs/home.png" alt="Meteora home page" width="640" />
+- [Java](https://github.com/victorhubarb?tab=repositories&language=java): object-oriented projects
+- [Testing](https://github.com/victorhubarb?tab=repositories&q=testing): Jest, Cypress and Robot Framework
+- [React](https://github.com/victorhubarb?tab=repositories&q=react): front-end apps with live demos
+- [Python](https://github.com/victorhubarb?tab=repositories&language=python): back-end design
 
 ## Looking for
 
