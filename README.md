@@ -13,7 +13,7 @@ Computer science student at **MassBay Community College**, planning to transfer 
 
 ## Looking for
 
-Software engineering internships and entry-level roles. **Available to start immediately.**
+Entry-level and junior software engineer roles in the U.S., and internships. Remote preferred, on-site is fine. **Available to start immediately.**
 
 ## Contact
 
