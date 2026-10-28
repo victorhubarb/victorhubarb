@@ -15,16 +15,9 @@ My focus is **software engineering**: object-oriented design, data structures, t
 
 A lot of my foundation comes from Alura courses. I build a practice project for each one and write down what it taught me and what is still missing. **DigiWallet** is the exception: it is my own project, designed and built from scratch for my Programming 2 final.
 
-## Featured projects
+## Projects
 
-Each one has a README that says what it does, how to run it and what is still missing.
-
-- **[DigiWallet](https://github.com/victorhubarb/digiwallet)**: a Venmo-style wallet in Java with a Swing interface, an abstract `PaymentMethod` hierarchy, a custom exception, file persistence, and UML and use-case design in `docs/`.
-- **[node-jest-testing](https://github.com/victorhubarb/node-jest-testing)**: a bookstore REST API (Express + SQLite) with unit and integration tests in Jest and Supertest.
-- **[cypress-testing](https://github.com/victorhubarb/cypress-testing)**: end-to-end and API tests in Cypress, with custom commands, data-driven specs, a stubbed server failure and HTML reports.
-- **[screenmatch](https://github.com/victorhubarb/screenmatch)**: a Java console app that queries the OMDb API, maps the JSON into its own model and saves the results.
-- **[Organo (TypeScript)](https://github.com/victorhubarb/organo-v3)** · [live demo](https://organo-v3.vercel.app): a React + TypeScript team roster app.
-- **[Meteora](https://github.com/victorhubarb/meteora)** · [live demo](https://meteora-three-tau.vercel.app): a React clothing-store front-end with a cart.
+My best work is pinned below. Each repository has a README that says what it does, how to run it and what is still missing.
 
 ## Explore the rest
 
