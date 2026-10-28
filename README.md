@@ -1,29 +1,48 @@
-# Hi, I'm Victor Hugo Barbosa
+<h1 align="center">Victor Hugo Barbosa</h1>
+<p align="center">
+  Computer science student building software with Java, testing and the web
+</p>
 
-I'm a computer science student at **MassBay Community College** (Associate degree, then a transfer to finish my B.S.), and I have been writing code since 2019. I started with front-end development, added testing and QA along the way, and I now work mostly in Java as I study for the degree.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,nodejs,express,sqlite,cypress,jest,git&perline=11" alt="Java, JavaScript, TypeScript, Python, React, Node.js, Express, SQLite, Cypress, Jest, Git" />
+</p>
 
-I'm still deciding between **software engineering**, **cybersecurity** and **AI / machine learning**, so I'm building a base that works for all three: object-oriented design, data structures, testing and clean, readable code.
+## About me
 
-## Projects worth opening
+I started writing code in 2019 with front-end development, then moved into automated testing and QA, and now I work mostly in Java as I study Computer Science at **MassBay Community College**. After my Associate degree I plan to transfer and finish my B.S.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [DigiWallet](https://github.com/victorhubarb/digiwallet) | Venmo-style wallet: accounts, linked banks and cards, sending money, history saved to files. My Programming II final project | Java, OOP |
-| [Meteora](https://github.com/victorhubarb/meteora) | Clothing-store front end with a shared cart (Context API and a reducer) and routing. [Live](https://meteora-three-tau.vercel.app) | React, Vite |
-| [Cypress Testing](https://github.com/victorhubarb/cypress-testing) | End-to-end and API tests with custom commands, fixtures and a stubbed server error | Cypress |
-| [Node Jest Testing](https://github.com/victorhubarb/node-jest-testing) | Unit and integration tests for an Express and SQLite API | Jest, Supertest |
-| [Screenmatch](https://github.com/victorhubarb/screenmatch) | Movie search against a public API, parsed with GSON and saved as JSON | Java |
-| [Monibank](https://github.com/victorhubarb/monibank) | Account-opening flow with a CPF check-digit validator and webcam capture | JavaScript |
+I am exploring three directions: **software engineering**, **cybersecurity** and **AI / machine learning**. What ties them together is what I practice every day: object-oriented design, data structures, testing, and code that other people can read.
 
-Each README says what the project does, how to run it, and what is still missing.
+## Projects to open first
 
-## What I work with
+### [DigiWallet](https://github.com/victorhubarb/digiwallet) · Java
+A Venmo-style wallet with accounts, linked banks and cards, money transfers and history saved to files. My Programming II final project.
+*What it shows: object-oriented design and file persistence in Java.*
 
-- **Languages:** Java, JavaScript, TypeScript, Python, HTML, CSS and Sass
-- **Front end:** React, Vite, React Router, Bootstrap
-- **Back end:** Node.js, Express, REST APIs, SQLite
-- **Testing:** Cypress, Robot Framework, Jest
-- **Tools:** Git and GitHub, Vercel, Figma
+### [Node Jest Testing](https://github.com/victorhubarb/node-jest-testing) · Node.js, Jest
+Unit and integration tests for an Express and SQLite API.
+*What it shows: how I test a back end, not only how I write one.*
+
+### [Cypress Testing](https://github.com/victorhubarb/cypress-testing) · Cypress
+End-to-end and API tests with custom commands, fixtures and a stubbed server error.
+*What it shows: QA thinking, including the failure paths.*
+
+### [Screenmatch](https://github.com/victorhubarb/screenmatch) · Java
+A movie search against a public API, parsed with GSON and saved as JSON.
+*What it shows: consuming a REST API from Java.*
+
+### [Monibank](https://monibank-theta-ten.vercel.app) · JavaScript
+An account-opening flow with a CPF check-digit validator and webcam capture. [Source](https://github.com/victorhubarb/monibank)
+*What it shows: validation logic and browser APIs, live.*
+
+### [Meteora](https://meteora-three-tau.vercel.app) · React
+A clothing-store front end with a shared cart (Context API and a reducer) and routing. [Source](https://github.com/victorhubarb/meteora)
+
+<img src="https://raw.githubusercontent.com/victorhubarb/meteora/main/docs/home.png" alt="Meteora home page" width="640" />
+
+## Looking for
+
+Internships and entry-level roles in software engineering, where I can learn from a team and keep building.
 
 ## Contact
 
