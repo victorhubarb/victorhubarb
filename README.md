@@ -36,7 +36,7 @@ More than 20 public repositories, built since 2019:
 
 ## Looking for
 
-Internships and entry-level roles in software engineering, where I can learn from a team and keep building.
+Internships and entry-level roles in software engineering, where I can learn from a team and keep building. **Available to start immediately.**
 
 ## Contact
 
