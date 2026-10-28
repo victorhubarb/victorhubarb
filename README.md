@@ -24,7 +24,6 @@ More than 20 public repositories, built since 2019:
 - [Java](https://github.com/victorhubarb?tab=repositories&language=java): object-oriented projects
 - [Testing](https://github.com/victorhubarb?tab=repositories&q=testing): Jest, Cypress and Robot Framework
 - [React](https://github.com/victorhubarb?tab=repositories&q=react): front-end apps with live demos
-- [Python](https://github.com/victorhubarb?tab=repositories&language=python): back-end design
 
 ## Looking for
 
