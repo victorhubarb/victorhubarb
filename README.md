@@ -13,9 +13,16 @@ I started writing code in 2019 with front-end development, then moved into autom
 
 My focus is **software engineering**: object-oriented design, data structures, testing, and code that other people can read.
 
-## Start with the pinned projects
+## Featured projects
 
-The six repositories below are the best place to begin: object-oriented Java, back-end and end-to-end testing, and a live React app. Each one has a README that says what it does, how to run it and what is still missing.
+Each one has a README that says what it does, how to run it and what is still missing.
+
+- **[DigiWallet](https://github.com/victorhubarb/digiwallet)**: a Venmo-style wallet in Java with a Swing interface, an abstract `PaymentMethod` hierarchy, a custom exception, file persistence, and UML and use-case design in `docs/`.
+- **[node-jest-testing](https://github.com/victorhubarb/node-jest-testing)**: a bookstore REST API (Express + SQLite) with unit and integration tests in Jest and Supertest.
+- **[cypress-testing](https://github.com/victorhubarb/cypress-testing)**: end-to-end and API tests in Cypress, with custom commands, data-driven specs, a stubbed server failure and HTML reports.
+- **[screenmatch](https://github.com/victorhubarb/screenmatch)**: a Java console app that queries the OMDb API, maps the JSON into its own model and saves the results.
+- **[Organo (TypeScript)](https://github.com/victorhubarb/organo-v3)** · [live demo](https://organo-v3.vercel.app): a React + TypeScript team roster app.
+- **[Meteora](https://github.com/victorhubarb/meteora)** · [live demo](https://meteora-three-tau.vercel.app): a React clothing-store front-end with a cart.
 
 ## Explore the rest
 
