@@ -11,7 +11,7 @@
 
 I started writing code in 2019 with front-end development, then moved into automated testing and QA, and now I work mostly in Java as I study Computer Science at **MassBay Community College**. After my Associate degree I plan to transfer and finish my B.S.
 
-I am exploring three directions: **software engineering**, **cybersecurity** and **AI / machine learning**. What ties them together is what I practice every day: object-oriented design, data structures, testing, and code that other people can read.
+My focus is **software engineering**: object-oriented design, data structures, testing, and code that other people can read.
 
 ## Start with the pinned projects
 
@@ -19,7 +19,7 @@ The six repositories below are the best place to begin: object-oriented Java, ba
 
 ## Explore the rest
 
-More than 30 public repositories, built since 2019:
+More than 20 public repositories, built since 2019:
 
 - [Java](https://github.com/victorhubarb?tab=repositories&language=java): object-oriented projects
 - [Testing](https://github.com/victorhubarb?tab=repositories&q=testing): Jest, Cypress and Robot Framework
