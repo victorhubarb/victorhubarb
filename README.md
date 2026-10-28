@@ -15,7 +15,7 @@ I am exploring three directions: **software engineering**, **cybersecurity** and
 
 ## Start with the pinned projects
 
-The six repositories above are the best place to begin: object-oriented Java, back-end and end-to-end testing, and a live React app. Each one has a README that says what it does, how to run it and what is still missing.
+The six repositories below are the best place to begin: object-oriented Java, back-end and end-to-end testing, and a live React app. Each one has a README that says what it does, how to run it and what is still missing.
 
 ## Explore the rest
 
