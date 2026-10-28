@@ -15,10 +15,6 @@ My focus is **software engineering**: object-oriented design, data structures, t
 
 A lot of my foundation comes from Alura courses. I build a practice project for each one and write down what it taught me and what is still missing. **DigiWallet** is the exception: it is my own project, designed and built from scratch for my Programming 2 final.
 
-## Projects
-
-My best work is pinned below. Each repository has a README that says what it does, how to run it and what is still missing.
-
 ## Explore the rest
 
 More than 20 public repositories, built since 2019:
